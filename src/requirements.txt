@@ -1,0 +1,6 @@
+google-cloud-bigquery>=2.25.0
+google-cloud-storage>=1.42.4
+pandas
+db-dtypes
+simplejson
+flask
